@@ -11,3 +11,5 @@ Final Projet Presentation: https://docs.google.com/presentation/d/1BTMwfktHvDzfz
 Final Project Video: https://drive.google.com/file/d/1OnO5qWczQbH_aVrgKAtejwLMw6-fFSRW/view?usp=share_link
 
 Team Members: Anish Kulkarni, Manuel Abitia, Zizhe Zhang.
+
+ECE - MAE 148 Team 14
