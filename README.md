@@ -1,5 +1,5 @@
-**ECE - MAE 148 Team 14 Winter 2023 Repository**
-We want to use the OAK-D camera to run object detection (within the camera) and track different traffic details (common signs, speed limits, etc.)
+
+**Project Goal:** We used the OAK-D camera to run object detection (within the camera) and track different traffic details (common signs, speed limits, etc.)
 
 **Software and Hardware Description:**
 The OAK-D and depthAI are AI-enabled stereo cameras that allow for depth perception and 3D mapping. They are powerful tools for computer vision applications, such as object detection and tracking. The depthAI is a board that enables faster processing of images by offloading the computational workload from the main processor to dedicated hardware. 
@@ -15,4 +15,4 @@ We first used the OAK-D and depthAI to detect stop signs in the robot's field of
 
 **Team Members: Anish Kulkarni, Manuel Abitia, Zizhe Zhang.**
 
-
+**ECE - MAE 148 Team 14 Winter 2023 Repository**
