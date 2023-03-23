@@ -24,4 +24,5 @@ https://docs.google.com/presentation/d/1BTMwfktHvDzfzYd6oSnHeaQTEBbtYg8wEMnqoWka
 
 **Team Members: Anish Kulkarni, Manuel Abitia, Zizhe Zhang.**
 
+**Special Thanks to: Professor Silberman, Kishore, and Moises.**
 
