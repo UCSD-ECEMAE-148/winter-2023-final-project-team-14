@@ -1,3 +1,4 @@
+**ECE - MAE 148 Team 14 Winter 2023 Repository**
 
 **Project Goal:** We used the OAK-D camera to run object detection (within the camera) and track different traffic details (common signs, speed limits, etc.)
 
@@ -15,4 +16,4 @@ We first used the OAK-D and depthAI to detect stop signs in the robot's field of
 
 **Team Members: Anish Kulkarni, Manuel Abitia, Zizhe Zhang.**
 
-**ECE - MAE 148 Team 14 Winter 2023 Repository**
+
